@@ -1,0 +1,17 @@
+[
+    {"name": "God of war", "tags": ["action", "classic"], "price": 10},
+    {"name": "Red dead redemption 2", "tags": ["open-world", "story", "singleplayer"], "price": 20},
+    {"name": "cs go", "tags": ["fps", "multiplayer", "competitive"], "price": 15},
+    {"name": "Minecraft", "tags": ["sandbox", "creative", "multiplayer"], "price": 12},
+    {"name": "GTA 5", "tags": ["open-world", "action", "multiplayer"], "price": 18},
+    {"name": "The witcher 3", "tags": ["rpg", "fantasy", "story"], "price": 22},
+    {"name": "cyberpunk 2077", "tags": ["rpg", "sci-fi", "open-world"], "price": 25},
+    {"name": "Call of duty", "tags": ["fps", "multiplayer", "action"], "price": 20},
+    {"name": "fifa 24", "tags": ["sports", "multiplayer", "competitive"], "price": 30},
+    {"name": "fortnite", "tags": ["battle royale", "multiplayer", "free to play"], "price": 0},
+    {"name": "Valorant", "tags": ["fps", "multiplayer", "competitive"], "price": 0},
+    {"name": "fc 25", "tags": ["sports", "multiplayer", "competitive"], "price": 0},
+    {"name": "elden ring", "tags": ["rpg", "fantasy", "open-world"], "price": 28},
+    {"name": "Among us", "tags": ["party", "multiplayer", "casual"], "price": 5},
+    {"name": "sekiro", "tags": ["action", "adventure", "soulslike"], "price": 24}
+]
